@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Copyright (c) 2012 by Subset Games. All rights reserved.-->
+<img x="-116" y="-18" w="666" h="351" />
+<offsets>
+	<floor x="110" y="12" />
+	<cloak x="-16" y="-22" />
+</offsets>
+<weaponMounts>
+	<mount x="147" y="14" rotate="true" mirror="true" gib="-1" slide="up" />
+	<mount x="147" y="338" rotate="true" mirror="false" gib="-1" slide="down" />
+	<mount x="573" y="77" rotate="true" mirror="true" gib="-1" slide="up" />
+	<mount x="573" y="274" rotate="true" mirror="false" gib="-1" slide="down" />
+	<mount x="618" y="176" rotate="true" mirror="true" gib="-1" slide="no" />
+</weaponMounts>
+<thrusters sync="false">
+	<thruster x="-7" y="22">mup_federation_thruster_trio</thruster>
+	<thruster x="96" y="144">mup_federation_thruster_small</thruster>
+	<thruster x="96" y="184">mup_federation_thruster_small</thruster>
+	<thruster x="-7" y="264">mup_federation_thruster_trio</thruster>
+</thrusters>
+<explosion />
+

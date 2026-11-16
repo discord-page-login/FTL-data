@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Copyright (c) 2012 by Subset Games. All rights reserved.-->
+<img x="-30" y="-147" w="304" h="443" />
+<offsets>
+	<floor x="152" y="221" />
+	<cloak x="-7" y="-8" />
+</offsets>
+<weaponMounts>
+	<mount x="86" y="249" rotate="false" mirror="true" gib="-1" slide="left" />
+	<mount x="218" y="249" rotate="false" mirror="false" gib="-1" slide="right" />
+	<mount x="119" y="92" rotate="false" mirror="true" gib="-1" slide="left" />
+	<mount x="185" y="92" rotate="false" mirror="false" gib="-1" slide="right" />
+</weaponMounts>
+<thrusters sync="false">
+    <thruster x="127" y="439">mu_fed_bomber_small_thruster</thruster>
+    <thruster x="163" y="439">mu_fed_bomber_small_thruster</thruster>
+    <thruster x="135" y="425">mu_militia_interceptor_thruster</thruster>
+    <thruster x="127" y="417">mu_fed_bomber_small_thruster</thruster>
+    <thruster x="163" y="417">mu_fed_bomber_small_thruster</thruster>
+    <thruster x="19" y="414">mu_fed_light</thruster>
+    <thruster x="263" y="414">mu_fed_light</thruster>
+</thrusters>
+<explosion />
+
